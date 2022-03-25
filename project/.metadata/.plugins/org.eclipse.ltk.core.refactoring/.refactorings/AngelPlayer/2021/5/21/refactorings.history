@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;AngelPlayer/WebContent/src/default.jsp&apos; to &apos;@default.jsp&apos;" description="Rename resource &apos;default.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/src/default.jsp" name="@default.jsp" stamp="1621411036597" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;AngelPlayer/WebContent/img/top-aboutus.png&apos; to &apos;company.png&apos;" description="Rename resource &apos;top-aboutus.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/img/top-aboutus.png" name="company.png" stamp="1621416560448" updateReferences="true"/>
+</session>

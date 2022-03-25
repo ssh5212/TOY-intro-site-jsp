@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Study\school-source\JSP_Example\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2650411201.index
+\AngelPlayer\src
+D:\Study\school-source\JSP_Example\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3396266779.index
+\AngelPlayer\src

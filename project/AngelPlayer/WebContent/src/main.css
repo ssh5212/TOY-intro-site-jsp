@@ -1,0 +1,91 @@
+.hobby-bg {
+	width: 100%;
+
+	background-image: url(../img/gundam.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right bottom;
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 1059px) {
+	.img-overlap {
+		width: 346px;
+		height: 461px;
+	}
+
+	.img-overlap-inner {
+		position: absolute;
+		width: 346px;
+		height: 461px;
+		right: 0;
+		top: 0;
+	}
+
+	.img-01 {
+		width: 50%;
+		height: auto;
+		position: absolute;
+
+		right: 20px;
+		top: 00px;
+	}
+
+	.img-02 {
+		position: absolute;
+		width: 60%;
+		left: 0px;
+		top: 140px;
+
+	}
+
+	.img-03 {
+		position: absolute;
+		right: 10px;
+		top: 280px;
+		width: 90%;
+	}
+}
+
+@media (min-width: 1060px) {
+	.img-overlap {
+		width: 490px;
+		height: 653px;
+	}
+
+	.img-overlap-inner {
+		position: absolute;
+		width: 490px;
+		height: 653px;
+		right: 0;
+		top: 0;
+	}
+
+	.img-01 {
+		width: 50%;
+		height: auto;
+		position: absolute;
+
+		right: 0px;
+		top: 20px;
+	}
+
+	.img-02 {
+		position: absolute;
+		width: 60%;
+		left: 0px;
+		top: 200px;
+
+	}
+
+	.img-03 {
+		position: absolute;
+		right: 10px;
+		top: 390px;
+		width: 90%;
+	}
+}

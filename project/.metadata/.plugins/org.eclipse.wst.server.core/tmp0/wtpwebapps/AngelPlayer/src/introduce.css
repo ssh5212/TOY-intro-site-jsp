@@ -1,0 +1,106 @@
+.about-box {
+	padding-top: 51px;
+	padding-bottom: 56px;
+}
+
+.about-box::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.about-box-1::after {
+	content: "";
+	display: flex;
+	clear: both;
+}
+
+
+
+
+
+/* #### 767px 이하 #### */
+@media (max-width: 767px) {
+	.about-box {
+		padding-top: 20px;
+		padding-bottom: 30px;
+	}
+	.about-box-0 {
+		padding-top: 19px;
+		padding-bottom: 19px;
+		border-bottom: solid 1px #D2D2D7;
+		margin-bottom: 31px;
+	}
+
+	.about-box-31 {
+		margin-top: 25px;
+	}
+	
+	.about-box:first-child {
+		margin-top: -50px;
+	}
+	
+	.about-box:last-child {
+		padding-bottom: 70px;
+	}
+}
+
+@media (min-width: 768px) {
+	.about-box:last-child {
+		padding-bottom: 70px;
+	}
+}
+
+/* #### 768px 이상 1059 이하 #### */
+@media (min-width: 768px) and (max-width: 1059px) {
+	.line-box {
+		border-top: solid 1px #D2D2D7;
+	}
+
+	.about-box-0 {
+		float: left;
+		width: 173px;
+	}
+	
+	.about-box-1 {
+		float: left;
+		width: 518px;
+	}
+	
+	.about-box-31 {
+		float: left;
+		width: 172px;
+	}
+	
+	.about-box-32 {
+		float: left;
+		width: 345px;
+	}
+}
+
+/* #### 1060px 이상 #### */
+@media (min-width: 1060px) {
+	.line-box {
+		border-top: solid 1px #D2D2D7;
+	}
+
+	.about-box-0 {
+		float: left;
+		width: 245px;
+	}
+	
+	.about-box-1 {
+		float: left;
+		width: 734px;
+	}
+	
+	.about-box-31 {
+		float: left;
+		width: 184px;
+	}
+	
+	.about-box-32 {
+		float: left;
+		width: 550px;
+	}
+}

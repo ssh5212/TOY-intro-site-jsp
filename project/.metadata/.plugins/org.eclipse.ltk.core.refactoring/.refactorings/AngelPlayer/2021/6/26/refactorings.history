@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AngelPlayer/WebContent/src/page_up.jsp&apos; to &apos;page_up_btn.jsp&apos;" description="Rename resource &apos;page_up.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/src/page_up.jsp" name="page_up_btn.jsp" stamp="1624683277272" updateReferences="true"/>
+</session>
