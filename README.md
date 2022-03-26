@@ -10,9 +10,8 @@
 - JavaScript
 - jQuery 3.6.0
 - JAVA 11.0.10 (JSP)
-
 - Apache Tomcat 9.0.43
-- mySQL 8.0.25
+- MySQL 8.0.25
 
 
 
