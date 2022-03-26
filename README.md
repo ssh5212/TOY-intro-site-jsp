@@ -5,8 +5,8 @@
 
 ## 개발 환경
 ### 언어
-- HTML 5		
-- CSS 3			
+- HTML 5
+- CSS 3
 - JavaScript
 - jQuery 3.6.0
 - JAVA 11.0.10 (JSP)
