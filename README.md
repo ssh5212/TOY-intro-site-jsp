@@ -1,6 +1,6 @@
-# introduce-website
+# TOY-intro-site-jsp
 
-2021년도 개인 프로젝트 (자기소개 홈페이지)
+jsp 학습용 토이 프로젝트 - 자기소개 홈페이지 
 
 
 ## 개발 환경
